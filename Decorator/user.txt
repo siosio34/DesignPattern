@@ -1,0 +1,7 @@
+1 32000 Vip
+2 32000 Vip
+3 25000 Guest
+4 27000 Guest
+5 800 Guest
+6 7000 Guest
+7 5000 Guest
